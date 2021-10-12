@@ -1,4 +1,4 @@
-        ![cli](https://i.postimg.cc/L6LX1r9Z/newlo9o.png)
+![cli](https://i.postimg.cc/L6LX1r9Z/newlo9o.png)
 
 # DoSer.py - Simple DoSer in Python
 
