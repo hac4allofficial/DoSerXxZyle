@@ -27,16 +27,16 @@ If you found this work useful, please cite it as
 
 ## How to install and run?
  
-  $ git clone https://github.com/hac4allofficial/DoSerXxZyle
-  $ cd DoSerXxZyle
-  $ chmod +x DoSerXxZyle.py
-  $ ./DoSerXxZyle.py <target url>
+* `$ git clone https://github.com/hac4allofficial/DoSerXxZyle`
+* `$ cd DoSerXxZyle`
+* `$ chmod +x DoSerXxZyle.py`
+* `$ ./DoSerXxZyle.py example.com`
 
 
 You can clone the git repo or install using **pip**. Here's how you run it.
 
 * `sudo pip3 install DoSer`
-* `DoSer.py example.com`
+* `DoSerXxZyle.py example.com`
 
 ### SOCKS5 proxy support
 
