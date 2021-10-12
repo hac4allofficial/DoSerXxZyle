@@ -16,7 +16,7 @@ This exhausts the servers thread pool and the server can't reply to other people
 If you found this work useful, please cite it as
 
 ```bibtex
-@article{gkbrkDoSer,
+@article{gkbrkDoSerXxZyle,
   title = "DoSerXxZyle",
   author = "D4RK~D3VIL - X - xZyle",
   journal = "github.com",
@@ -35,8 +35,8 @@ If you found this work useful, please cite it as
 
 You can clone the git repo or install using **pip**. Here's how you run it.
 
-* `sudo pip3 install DoSer`
-* `DoSerXxZyle.py example.com`
+* `sudo pip3 install DoSerXxZyle`
+* `XxZyle.py example.com`
 
 ### SOCKS5 proxy support
 
@@ -47,9 +47,9 @@ However, if you plan on using the `-x` option in order to use a SOCKS5 proxy for
 You can then use the `-x` option to activate SOCKS5 support and the `--proxy-host` and `--proxy-port` option to specify the SOCKS5 proxy host and its port, if they are different from the standard `127.0.0.1:8080`.
 
 ## Configuration options
-It is possible to modify the behaviour of DoSer with command-line
+It is possible to modify the behaviour of DoSerXxZyle with command-line
 arguments. In order to get an up-to-date help document, just run
-`DoSer -h`.
+`DoSerXxZyle.py -h`.
 
 * -p, --port
 * * Port of webserver, usually 80
