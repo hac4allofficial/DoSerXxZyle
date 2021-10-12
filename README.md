@@ -1,4 +1,4 @@
-![cli](https://i.postimg.cc/L6LX1r9Z/newlo9o.png)
+<center>![cli](https://i.postimg.cc/L6LX1r9Z/newlo9o.png)
 
 # DoSer.py - Simple DoSer in Python
 
@@ -17,15 +17,21 @@ If you found this work useful, please cite it as
 
 ```bibtex
 @article{gkbrkDoSer,
-  title = "DoSer",
-  author = "D4RK~D3VIL",
+  title = "DoSerXxZyle",
+  author = "D4RK~D3VIL - X - xZyle",
   journal = "github.com",
   year = "2021",
-  url = "https://github.com/hac4allofficial/DoSer"
+  url = "https://github.com/hac4allofficial/DoSerXxZyle"
 }
 ```
 
 ## How to install and run?
+ 
+  $ git clone https://github.com/hac4allofficial/DoSerXxZyle
+  $ cd DoSerXxZyle
+  $ chmod +x DoSerXxZyle.py
+  $ ./DoSerXxZyle.py <target url>
+
 
 You can clone the git repo or install using **pip**. Here's how you run it.
 
